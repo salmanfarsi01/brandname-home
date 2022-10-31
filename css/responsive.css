@@ -1,0 +1,309 @@
+@media (min-width: 279px) and (max-width: 319px){
+
+	.navbar-brand img{
+		width: 180px;
+	}
+	 
+	 .inner-banner .btn-success{
+       
+       font-size: 14px;
+       line-height: 24px;
+       margin: 20px 0px 0px 60px;
+	 }
+
+	 .inner-banner .btn-primary{
+
+	 	    margin: 20px 0px 0px 70px;
+	 }
+	 .banner .inner-banner img{
+            
+                width: 110px;
+
+	 }
+
+	 .inner-banner h2{
+       
+       font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    margin: 0px;
+
+	 }
+
+	 .inner-banner p{
+
+	 	font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    margin: 0px;
+	 }
+
+	 .Strategy .inner-strategy h2{
+
+	 	font-size: 22px;
+	 	line-height: 32px;
+	 	text-align: center;
+	 }
+
+	 .Strategy .inner-strategy p{
+	 	font-size: 14px;
+	 	line-height: 24px;
+	 	text-align: center;
+	 }
+    
+    .feature .inner-feature .fa{
+       
+           font-size: 45px;
+    margin: 25px 0px 0px 105px;
+
+    }
+
+    .feature .inner-feature{
+      
+          margin: 15px 0px 0px 0px;
+
+    }
+
+    .client .client-header h2{
+
+    	font-size: 22px;
+    	line-height: 32px;
+    	text-align: center;
+    }
+
+    .client .card .card-img-top {
+    margin: 15px 0px 0px 48px;
+}
+   
+   .client .user-info{
+     
+         margin: 0px 0px 5px 100px;
+
+   }
+
+  .card {
+     
+     margin: 0px 0px 15px 0px;
+
+  }
+
+  .client .user-info-1 p{
+
+  	margin: 0px 0px 15px 0px;
+  }
+
+  .news .news-title h2{
+
+  	 font-size: 22px;
+  	 line-height: 32px;
+  	 text-align: center;
+  	 margin: 10px 0px 10px 0px;
+  }
+
+  .news .news-head img{
+     
+        width: 255px; 
+
+  }
+
+  .news .news-table{
+
+  	    margin: 0px 0px 40px 0px;
+  }
+
+  .pricing h2{
+
+  	font-size: 22px;
+  	line-height: 32px;
+  	text-align: center;
+  }
+
+  .pricing .card-price .price-body .btn-primary{
+
+  	    margin: 0px 0px 0px 35px;
+  }
+   
+   .card-price .price-checking .fa {
+    font-size: 20px;
+    color: #2DC071;
+    margin: 32px 0px 0px 30px;
+}
+
+.pricing .card-price{
+
+	margin: 0px 0px 15px 0px;
+	}
+
+
+.feature-2 h2{
+
+	font-size: 22px;
+	line-height: 32px;
+	text-align: center;
+}
+.feature-2 p{
+
+	font-size: 12px;
+	line-height: 22px;
+	text-align: center;
+
+}
+
+.form-control{
+
+	    padding: 0px 0px 0px 15px;
+    margin: -25px 0px 0px 0px;
+    width: 168px;
+    height: 38px;
+}
+
+.btn-outline-success{
+    
+    margin: -26px 0px 25px 0px;
+
+}
+
+.header .navbar-nav .nav-item-1 .btn-success{
+    
+    margin: 0px;
+
+}
+
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 480px){
+
+
+.header .navbar-nav .nav-item-1 .btn-success{
+
+	margin: 0px;
+}
+
+.banner .inner-banner img{
+   
+   width: 150px;
+
+}
+
+.inner-banner h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0px 0px 0px 10px;
+    text-align: center;
+}
+
+.inner-banner p{
+
+	font-size: 14px;
+	line-height: 24px;
+	text-align: center;
+	margin: 0px;
+}
+
+.inner-banner .btn-success{
+
+	    margin: 15px 0px 0px 100px;
+}
+
+.inner-banner .btn-primary{
+	margin: 15px 0px 0px 115px;
+}
+
+.Strategy .inner-strategy h2{
+
+	font-size: 32px;
+	line-height: 42px;
+	text-align: center;
+}
+
+.feature .inner-feature{
+
+	    margin: 25px 0px 25px 0px;
+}
+
+.client .client-header h2{
+
+	font-size: 32px;
+	line-height: 42px;
+	text-align: center;
+}
+
+
+.client .user-info {
+    width: 50px;
+    margin: 0px 0px 15px 155px;
+}
+
+.card{
+ 
+ margin: 0px 0px 15px 0px;
+
+}
+
+.news .news-title h2{
+
+	font-size: 32px;
+	line-height: 42px;
+	text-align: center;
+}
+
+.news .news-head img {
+    width: 365px;
+}
+
+.news-table .news-head p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin: -145px 200px 0px 0px;
+}
+
+.news-table .news-head .btn{
+
+     margin: 0px 0px 0px 5px;
+
+}
+
+.news .news-table{
+
+	margin: 0px 0px 40px 0px;
+}
+
+.pricing h2{
+
+	font-size: 32px;
+	line-height: 42px;
+	text-align: center;
+	margin: 0px;
+}
+
+.pricing .card-price{
+
+	margin: 0px 0px 20px 0px;
+}
+
+.feature-2 h2{
+
+	font-size: 32px;
+	line-height: 42px;
+	text-align: center;
+}
+.feature-2 p{
+    
+    text-align: center;
+}
+
+.form-control {
+    width: 200px;
+    margin: 0px 0px 0px 35px;
+    height: 40px;
+}
+.btn-outline-success{
+    
+        margin: 0px 0px 50px 0px;
+
+}
+}
